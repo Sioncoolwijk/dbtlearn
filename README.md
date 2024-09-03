@@ -1,11 +1,8 @@
 Welcome to your new dbt project!
 
-### Using the starter project
+### Course
 
-Try running the following commands:
-- dbt run
-- dbt test
-
+This is a test project that was used during a Udemy course.
 
 ### Resources:
 - Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
